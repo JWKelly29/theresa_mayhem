@@ -22,3 +22,6 @@ Theresa Mayhem is a top-down twin-stick shooter with powerups, explodables and m
   
 2. We were unable to find enough free assets that were relevant to our project. As such we worked on the art and animation more than we had hoped within the eight days we had to implement features.
  
+## Developed By
+
+[Jack Kelly](https://github.com/JWKelly29), [Chris Marriot](https://github.com/Chrixs), [Tom Fuller](https://github.com/tomfuller)
