@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Upper Whale
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_joint31
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_joint31/WhaleRig01_Head1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_joint31/WhaleRig01_Head1/WhaleRig01_Jaw1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_joint31/WhaleRig01_Head1/WhaleRig01_Jaw1/WhaleRig01_joint26
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_joint31/WhaleRig01_Head1/WhaleRig01_joint5
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4/WhaleRig01_LFrontLimb5
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4/WhaleRig01_LFrontLimb5/WhaleRig01_LFrontLimb6
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4/WhaleRig01_LFrontLimb5/WhaleRig01_LFrontLimb6/WhaleRig01_LFrontLimb7
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4/WhaleRig01_LFrontLimb5/WhaleRig01_LFrontLimb8
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_LFrontLimb1/WhaleRig01_RFrontLimb11/WhaleRig01_LFrontLimb3/WhaleRig01_LFrontLimb4/WhaleRig01_LFrontLimb5/WhaleRig01_LFrontLimb8/WhaleRig01_LFrontLimb9
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4/WhaleRig01_RFrontLimb5
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4/WhaleRig01_RFrontLimb5/WhaleRig01_RFrontLimb6
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4/WhaleRig01_RFrontLimb5/WhaleRig01_RFrontLimb6/WhaleRig01_RFrontLimb7
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4/WhaleRig01_RFrontLimb5/WhaleRig01_RFrontLimb8
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Back1/WhaleRig01_Back2/WhaleRig01_transform27/WhaleRig01_RFrontLimb1/WhaleRig01_RFrontLimb2/WhaleRig01_RFrontLimb3/WhaleRig01_RFrontLimb4/WhaleRig01_RFrontLimb5/WhaleRig01_RFrontLimb8/WhaleRig01_RFrontLimb9
+    m_Weight: 1
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_LLegb1
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_LLegb1/WhaleRig01_LLegb2
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_LLegb1/WhaleRig01_LLegb2/WhaleRig01_LLegb3
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_LLegb1/WhaleRig01_LLegb2/WhaleRig01_LLegb3/WhaleRig01_LLegb4
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_LLegb1/WhaleRig01_LLegb2/WhaleRig01_LLegb3/WhaleRig01_LLegb4/WhaleRig01_LLegb5
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_RLegb1
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_RLegb1/WhaleRig01_RLegb2
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_RLegb1/WhaleRig01_RLegb2/WhaleRig01_RLegb3
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_RLegb1/WhaleRig01_RLegb2/WhaleRig01_RLegb3/WhaleRig01_RLegb4
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_Hips1/WhaleRig01_RLegb1/WhaleRig01_RLegb2/WhaleRig01_RLegb3/WhaleRig01_RLegb4/WhaleRig01_RLegb5
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1/WhaleRig01_Tail2
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1/WhaleRig01_Tail2/WhaleRig01_Tail3
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1/WhaleRig01_Tail2/WhaleRig01_Tail3/WhaleRig01_Tail4
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1/WhaleRig01_Tail2/WhaleRig01_Tail3/WhaleRig01_Tail4/WhaleRig01_TailProng1
+    m_Weight: 0
+  - m_Path: WhaleRig01_MainCntrl/WhaleRig01_RootCntrl1/WhaleRig01_Back/WhaleRig01_joint32/WhaleRig01_Tail1/WhaleRig01_Tail2/WhaleRig01_Tail3/WhaleRig01_Tail4/WhaleRig01_TailProng1/WhaleRig01_joint12
+    m_Weight: 0
+  - m_Path: WhaleRig01_Whale3DCLo_Group17209
+    m_Weight: 0
+  - m_Path: WhaleRig01_WhaleTeeth_Group23368
+    m_Weight: 0
