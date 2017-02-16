@@ -14,9 +14,9 @@ Theresa Mayhem is a top-down twin-stick shooter with powerups, explodables and m
 
 ## Challenges
 
-1. We struggled using the version control that Unity provides. Within the first couple of day into the project we found that we would have merge conflicts when both of us edit the same file and then we would be forced to choose to discard our own work or keep ours and discard our partners.  
+1. We struggled using the version control that Unity provides. Within the first couple of days into the project we found that we would have merge conflicts when both of us edit the same file. We would then be forced to choose to discard our own work or keep ours and discard our partners.  
   
- In addition anytime a partner wanted to push a piece of work they had to pull first to get up to date. This presented a problem when working with the interface in Unity. Any changes made to the interface where unable to be saved like the files could and so when pulling all changes to the interface where reset.
+ In addition anytime a partner wanted to push a piece of work they had to pull first to get up to date. This presented a problem when working with the interface in Unity. Any changes made to the interface where unable to be saved like the files could and so when pulling, all changes to the interface where reset.
   
   - We resolved this issue by communicating everytime we found ourselves having to edit the same file and before pushing our changes in case one of us are working on the interface.
   
