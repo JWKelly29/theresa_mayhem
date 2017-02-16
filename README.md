@@ -18,7 +18,7 @@ Theresa Mayhem is a top-down twin-stick shooter with powerups, explodables and m
   
  In addition anytime a partner wanted to push a piece of work they had to pull first to get up to date. This presented a problem when working with the interface in Unity. Any changes made to the interface where unable to be saved like the files could and so when pulling all changes to the interface where reset.
   
-  - We resolved this issue by communicating everytime we find ourselves having to edit the same file and before pushing our changes in case one of us are working on the interface.
+  - We resolved this issue by communicating everytime we found ourselves having to edit the same file and before pushing our changes in case one of us are working on the interface.
   
 2. We were unable to find enough free assets that were relevant to our project. As such we worked on the art and animation more than we had hoped within the eight days we had to implement features.
  
